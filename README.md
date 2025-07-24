@@ -5,7 +5,6 @@ This library is designed to simplify integration with Traffy task-based systems,
 
 ## Features
 
-- Fetch up to 3 tasks assigned to a user  
 - Check if a task is completed  
 - Fully asynchronous using `aiohttp`  
 - Easy to use, with `resource_id` set once in the client
